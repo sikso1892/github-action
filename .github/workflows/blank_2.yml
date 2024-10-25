@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  deploy_test_1234:
     runs-on: ubuntu-latest
     steps:
       - name: Run a one-line script
